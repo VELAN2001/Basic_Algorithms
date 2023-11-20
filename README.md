@@ -1,4 +1,4 @@
-# Basic_Algorithms like 
+# List of Basic_Algorithms 
 
 * Bubble Sort
 * Quick sort
@@ -13,5 +13,3 @@
 * Tim sort
 * Tree sort
 * Cube sort
-
-  are feeded in this repository
